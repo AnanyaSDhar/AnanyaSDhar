@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tensorflow, OpenCV, Keras**
 
-- 💬 Ask me about **Data Science, Machine Learning, Frontend Development**
+- 💬 Ask me about **Data Science, Machine Learning, Web Development**
 
 - 📫 Reach me **ananyasutradhar1403@gmail.com**
 
