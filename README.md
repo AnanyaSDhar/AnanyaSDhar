@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ananya</h1>
 <h3 align="center">A Machine Learning enthusiast</h3>
 
-- 🔭 I’m currently working on [sentiment analysis](https://github.com/AnanyaSDhar/Sentiment-analysis-using-BERT)
+- 🔭 I’m currently working on [Weather Forecasting]([https://github.com/AnanyaSDhar/Sentiment-analysis-using-BERT](https://www.iiests.ac.in))
 
 - 🌱 I’m currently learning **Tensorflow, OpenCV, Keras**
 
