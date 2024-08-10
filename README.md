@@ -9,8 +9,6 @@
 
 - 📫 Reach me **ananyasutradhar1403@gmail.com**
 
-- ⚡ Fun fact **I can move my ears without touching**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ananya-sutradhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananya-sutradhar" height="30" width="40" /></a>
