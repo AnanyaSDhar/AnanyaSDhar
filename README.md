@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Weather Forecasting](https://github.com/AnanyaSDhar/Sentiment-analysis-using-BERT)
 
-- 🌱 I’m currently learning **Tensorflow, OpenCV, Keras**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **Data Science, Machine Learning, Web Development**
 
